@@ -38,3 +38,5 @@
     <a href="https://www.facebook.com/baris.palabiyik/" target="_blank"><img alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="background-color: #f0f0f0; border-radius: 10%; box-shadow: 2px 2px 8px #888888; padding: 5px;"></a> &nbsp;
     <a href="https://www.instagram.com/barispal/" target="_blank"><img alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color: #f0f0f0; border-radius: 10%; box-shadow: 2px 2px 8px #888888; padding: 5px;"></a>
 </p>
+
+<h4 align="center">⚠️ I keep heavy-hitter repos private, contact me for proper demos ⚠️</h4>
